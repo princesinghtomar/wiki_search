@@ -1,7 +1,6 @@
 # Mini Project
----
+
 ## Wikipedia Search Engine
----
 
 >   Prince Singh Tomar
 
