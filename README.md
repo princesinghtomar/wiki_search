@@ -14,8 +14,8 @@
 
 ### Usage :
 -   indexer.py :
-    -   python3 indexer.py <location_of_dump> ../inverted_indexes/wii stat_file.txt
+    -   python3 `indexer.py` <location_of_dump> ../inverted_indexes/wii stat_file.txt
 -   merge.py :
-    -   python3 merge.py
+    -   python3 `merge.py`
 -   search.py :
-    -   python3 search.py ../inverted_indexes/wii <location_of_queries_file>
+    -   python3 `search.py` ../inverted_indexes/wii <location_of_queries_file>
